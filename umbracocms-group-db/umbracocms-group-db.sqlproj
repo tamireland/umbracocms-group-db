@@ -150,5 +150,6 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
+    <Build Include="Function1.sql" />
   </ItemGroup>
 </Project>
